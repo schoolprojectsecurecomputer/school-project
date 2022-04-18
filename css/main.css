@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(180, 245, 200);
+}
+div {
+  box-sizing: border-box;
+}
+.container {
+  width: 950px;
+  padding: 10px;
+  margin: auto;
+}
+header {
+  background: url(../img/fon.jpg);
+  height: 140px;
+}
+.pict {
+  height: 140px;
+  width: 140px;
+  float: left;
+}
+h1 {
+  float: middle;
+  padding: 10px;
+}
+h2 {
+  float: left;
+  padding: 10px;
+}
+.sod {
+  width: 400px;
+  height: 250px;
+  background-color: palegreen;
+  float: right;
+  padding: 10px;
+}
+.ogl {
+  padding-left: 140px;
+}
+nav {
+  padding: 0 0 0 25px;
+  margin: 0;
+  display: block;
+}
+nav li {
+  margin-bottom: 5px;
+}
+nav li a {
+  color: #000;
+  text-decoration: none;
+}
+.text {
+  width: 530px;
+  padding: 10px;
+  margin: left;
+}
+.text2 {
+  float: left
+}
